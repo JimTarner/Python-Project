@@ -2,6 +2,7 @@ import pygame
 import os
 pygame.font.init()
 pygame.mixer.init()
+#numeleJimTarner l-am pus la intamplare
 
 WIDTH, HEIGHT = 900, 500
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
